@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "ODB White-Box AI: Stage 1 Theory and Formal State-Machine Specification"
+message: "If you use this specification, please cite the release tag and commit hash."
+type: software
+version: "1.0.0"
+date-released: 2026-08-31
+license: CC-BY-NC-4.0
+authors:
+  - family-names: "ODB Project"
+    given-names: "Project Contributors"
+repository-code: "https://github.com/yimingtao69-commits/odb-whitebox-ai-stage1"
+abstract: >-
+  Public theory and formal specification for a white-box, auditable,
+  state-machine-based AI system. This release is non-executable and excludes
+  production code, customer data, credentials, and historical test packages.
